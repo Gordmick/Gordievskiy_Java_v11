@@ -50,13 +50,12 @@ public class task_3 {
         System.out.println("Введите элементы массива:");
         for (int i = 0; i < length; i++) {
             array[i] = input.nextInt();
-        }
-        System.out.println("Элементы массива кратные 3:");
-        for (int i = 0; i < length; i++) {
-            if ((array[i] % 3 == 0) && (array[i] != 0 )){
+            if ((array[i] % 3 == 0) && (array[i] != 0)) {
                 System.out.print(array[i] + " ");
             }
+
         }
+        System.out.print("- элементы массива кратные 3");
     }
 }
 ```
