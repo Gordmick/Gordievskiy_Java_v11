@@ -2,6 +2,19 @@
 ## Задания, необходимо написать код:
 
 ### 1. Составить алгоритм: если введенное число больше 7, то вывести “Привет”  
+Решение:  
+package test_taks;
+import java.util.Scanner;
+public class task_1 {
+    public static void main(String[] args) {
+        System.out.println("Введите число");
+        Scanner scanner = new Scanner(System.in);
+        int number = scanner.nextInt();
+        if (number > 7)  {
+            System.out.println("Привет");
+        }
+        }
+}
 ### 2. Составить алгоритм: если введенное имя совпадает с Вячеслав, то вывести “Привет, Вячеслав”, если нет, то вывести "Нет такого имени"  
 ### 3. Составить алгоритм: на входе есть числовой массив, необходимо вывести элементы массива кратные 3  
 
