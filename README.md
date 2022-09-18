@@ -17,7 +17,7 @@ public class task_1 {
     }
 }
 ```
-* [Скачать исполняемый файл Task_1.jar](https://github.com/Gordmick/Gordievskiy_Java_v11/blob/main/executable_files/Task_1.jar)
+* [Скачать исполняемый файл Task_1.jar](https://github.com/Gordmick/Gordievskiy_Java_v11/blob/main/executable_files/Task_1.jar/Download)
 ### 2. Составить алгоритм: если введенное имя совпадает с Вячеслав, то вывести “Привет, Вячеслав”, если нет, то вывести "Нет такого имени" 
 Решение:
 ```java
