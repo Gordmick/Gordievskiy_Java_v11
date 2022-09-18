@@ -17,6 +17,7 @@ public class task_1 {
     }
 }
 ```
+* [Скачать исполняемый файл Task_1.jar](https://github.com/Gordmick/Gordievskiy_Java_v11/blob/main/executable_files/Task_1.jar)
 ### 2. Составить алгоритм: если введенное имя совпадает с Вячеслав, то вывести “Привет, Вячеслав”, если нет, то вывести "Нет такого имени" 
 Решение:
 ```java
@@ -40,6 +41,7 @@ public class task_2 {
 ```java
 Scanner console = new Scanner(System.in, "ibm866");
 ```
+* [Скачать исполняемый файл Task_2.jar](https://github.com/Gordmick/Gordievskiy_Java_v11/blob/main/executable_files/Task_2.jar)
 ### 3. Составить алгоритм: на входе есть числовой массив, необходимо вывести элементы массива кратные 3 
 Решение:
 ```java
@@ -63,6 +65,7 @@ public class task_3 {
     }
 }
 ```
+* [Скачать исполняемый файл Task_3.jar](https://github.com/Gordmick/Gordievskiy_Java_v11/blob/main/executable_files/Task_3.jar)
 ### 4. Задание, ответ в текстовой форме:  
   Дана скобочная последовательность: [((())()(())]]  
   - Можно ли считать эту последовательность правильной?  
