@@ -67,8 +67,12 @@ public class task_3 {
 ```
 * [Скачать исполняемый файл Task_3.jar](https://github.com/Gordmick/Gordievskiy_Java_v11/blob/main/executable_files/Task_3.jar)
 
-* [Gordievskiy_Java_Project (Посмотреть проект)](https://github.com/Gordmick/Test_tasks_Gordievskiy_Java_Project)
+* [Gordievskiy_Java_Project (Посмотреть весь проект)](https://github.com/Gordmick/Test_tasks_Gordievskiy_Java_Project)
 ### 4. Задание, ответ в текстовой форме:  
   Дана скобочная последовательность: [((())()(())]]  
   - Можно ли считать эту последовательность правильной?  
   - Если ответ на предыдущий вопрос “нет” - то что необходимо в ней изменить, чтоб она стала правильной?  
+  ```
+  Ответ: нет, необходимо заменить предпоследнюю ] на ), в результате получим:
+  [((())()(()))] 
+  ```
