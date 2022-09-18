@@ -37,7 +37,7 @@ public class task_2 {
     }
 }
 ```
-* для корректной работы исполняемого файла, при вводе данных через консоль, необходимо внести изменения в строку, добавив кодировку языка:
+* для корректной работы исполняемого файла, при вводе данных через Windows cmd, необходимо внести изменения в строку, добавив кодировку языка:
 ```java
 Scanner console = new Scanner(System.in, "ibm866");
 ```
@@ -66,6 +66,8 @@ public class task_3 {
 }
 ```
 * [Скачать исполняемый файл Task_3.jar](https://github.com/Gordmick/Gordievskiy_Java_v11/blob/main/executable_files/Task_3.jar)
+
+* [Gordievskiy_Java_Project (Посмотреть проект](https://github.com/Gordmick/Test_tasks_Gordievskiy_Java_Project)
 ### 4. Задание, ответ в текстовой форме:  
   Дана скобочная последовательность: [((())()(())]]  
   - Можно ли считать эту последовательность правильной?  
