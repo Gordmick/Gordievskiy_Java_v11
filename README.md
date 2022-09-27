@@ -5,7 +5,9 @@
 Решение:
 ```java
 package test_taks;
+
 import java.util.Scanner;
+
 public class task_1 {
     public static void main(String[] args) {
         System.out.println("Введите число");
@@ -22,7 +24,9 @@ public class task_1 {
 Решение:
 ```java
 package test_taks;
+
 import java.util.Scanner;
+
 public class task_2 {
     public static void main(String[] args) {
         System.out.println("Введите имя");
@@ -46,7 +50,9 @@ Scanner console = new Scanner(System.in, "ibm866");
 Решение:
 ```java
 package test_taks;
+
 import java.util.Scanner;
+
 public class task_3 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
